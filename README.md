@@ -25,6 +25,7 @@ Flutter'ın nasıl kurulacağına dair resmi dokümantasyona [buradan](https://f
    git clone https://github.com/LinkedKTU/linkedktu-frontend-monolithic-noSQL.git
 
 2. Ya da Intellij Idea veya Android Studio'yu açın unzip ettiğiniz projen dosyasını seçin
+   
 Proje dizinine gidin.
 bash
 Copy code
